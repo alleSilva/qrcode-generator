@@ -1,0 +1,20 @@
+{
+  "name": "qrcode-generator",
+  "version": "1.0.0",
+  "description": "a qr code generator from excel file",
+  "main": "qrgenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qr",
+    "qrcode",
+    "excel"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.4.4",
+    "xlsx": "^0.17.0"
+  }
+}
